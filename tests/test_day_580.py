@@ -1,5 +1,5 @@
 import pytest
-from solutions import TreeNode
+from solutions.common_data_type import TreeNode
 from solutions.day_580 import Solution
 
 

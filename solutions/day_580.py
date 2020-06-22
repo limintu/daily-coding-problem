@@ -13,7 +13,8 @@ For example, the minimum path in this tree is [10, 5, 1, -1], which has sum 15.
        /
       1
 """
-from solutions import TreeNode
+from solutions.common_data_type import TreeNode
+
 
 class Solution:
     def find_minimum_path_sum(self, root: TreeNode) -> int:
